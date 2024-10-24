@@ -1,0 +1,18 @@
+[2024-10-24 15:53:41] | Function Started : Delete_Contact_TC005 
+[2024-10-24 15:53:42] | Started Function: waitElement 
+[2024-10-24 15:53:42] | Completed Function: waitElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:42] | Started Function: InsertValue 
+[2024-10-24 15:53:42] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:42] | Started Function: InsertValue 
+[2024-10-24 15:53:42] | Completed Function: InsertValue - Success : [//input[@id="password"]] 
+[2024-10-24 15:53:42] | Started Function: clickElement 
+[2024-10-24 15:53:42] | Completed Function: clickElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:42] | Started Function: waitElement 
+[2024-10-24 15:53:44] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:44] | Started Function: clickElement 
+[2024-10-24 15:53:45] | Completed Function: clickElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:45] | Started Function: waitElement 
+[2024-10-24 15:53:45] | Completed Function: waitElement - Success : [//button[@id="delete"]] 
+[2024-10-24 15:53:46] | Started Function: clickElement 
+[2024-10-24 15:53:46] | Completed Function: clickElement - Success : [//button[@id="delete"]] 
+[2024-10-24 15:53:51] | Function Done : Delete_Contact_TC005 

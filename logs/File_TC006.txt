@@ -1,0 +1,76 @@
+[2024-10-24 15:53:51] | Function Started : File_TC006 
+[2024-10-24 15:53:52] | Started Function: waitElement 
+[2024-10-24 15:53:52] | Completed Function: waitElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:52] | Started Function: InsertValue 
+[2024-10-24 15:53:52] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:52] | Started Function: InsertValue 
+[2024-10-24 15:53:52] | Completed Function: InsertValue - Success : [//input[@id="password"]] 
+[2024-10-24 15:53:52] | Started Function: clickElement 
+[2024-10-24 15:53:52] | Completed Function: clickElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:52] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Started Function: waitElement 
+[2024-10-24 15:53:54] | Completed Function: getObjectText - Success : [//td] 
+[2024-10-24 15:53:54] | Function Done : File_TC006 

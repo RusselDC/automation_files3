@@ -1,0 +1,30 @@
+[2024-10-24 15:53:32] | Function Started : Edit_Contact_TC004 
+[2024-10-24 15:53:33] | Started Function: waitElement 
+[2024-10-24 15:53:33] | Completed Function: waitElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:33] | Started Function: InsertValue 
+[2024-10-24 15:53:33] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:33] | Started Function: InsertValue 
+[2024-10-24 15:53:33] | Completed Function: InsertValue - Success : [//input[@id="password"]] 
+[2024-10-24 15:53:33] | Started Function: clickElement 
+[2024-10-24 15:53:33] | Completed Function: clickElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:33] | Started Function: waitElement 
+[2024-10-24 15:53:34] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:34] | Started Function: clickElement 
+[2024-10-24 15:53:35] | Completed Function: clickElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:35] | Started Function: waitElement 
+[2024-10-24 15:53:35] | Completed Function: waitElement - Success : [//button[@onclick="location.href='/editContact'"]] 
+[2024-10-24 15:53:35] | Started Function: clickElement 
+[2024-10-24 15:53:36] | Completed Function: clickElement - Success : [//button[@onclick="location.href='/editContact'"]] 
+[2024-10-24 15:53:36] | Started Function: ClearValue 
+[2024-10-24 15:53:36] | Completed Function: ClearValue - Success : [//input[@id="postalCode"]] 
+[2024-10-24 15:53:37] | Started Function: InsertValue 
+[2024-10-24 15:53:37] | Completed Function: InsertValue - Success : [//input[@id="postalCode"]] 
+[2024-10-24 15:53:37] | Started Function: clickElement 
+[2024-10-24 15:53:37] | Completed Function: clickElement - Success : [//button[@form="edit-contact"]] 
+[2024-10-24 15:53:37] | Started Function: waitElement 
+[2024-10-24 15:53:38] | Completed Function: waitElement - Success : [//button[@id="return"]] 
+[2024-10-24 15:53:38] | Started Function: clickElement 
+[2024-10-24 15:53:39] | Completed Function: clickElement - Success : [//button[@id="return"]] 
+[2024-10-24 15:53:39] | Started Function: waitElement 
+[2024-10-24 15:53:40] | Completed Function: getObjectText - Success : [//tr[@class="contactTableBodyRow"]//td[7]] 
+[2024-10-24 15:53:41] | Function Done : Edit_Contact_TC004 

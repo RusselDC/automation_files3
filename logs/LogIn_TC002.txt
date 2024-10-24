@@ -1,0 +1,10 @@
+[2024-10-24 15:53:11] | Function Started : LogIn_TC002 
+[2024-10-24 15:53:15] | Started Function: waitElement 
+[2024-10-24 15:53:15] | Completed Function: waitElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:15] | Started Function: InsertValue 
+[2024-10-24 15:53:15] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:15] | Started Function: InsertValue 
+[2024-10-24 15:53:15] | Completed Function: InsertValue - Success : [//input[@id="password"]] 
+[2024-10-24 15:53:15] | Started Function: clickElement 
+[2024-10-24 15:53:15] | Completed Function: clickElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:16] | Function Done : LogIn_TC002 

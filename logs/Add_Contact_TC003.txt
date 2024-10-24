@@ -1,0 +1,100 @@
+[2024-10-24 15:53:16] | Function Started : Add_Contact_TC003 
+[2024-10-24 15:53:17] | Started Function: waitElement 
+[2024-10-24 15:53:17] | Completed Function: waitElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:17] | Started Function: InsertValue 
+[2024-10-24 15:53:17] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:17] | Started Function: InsertValue 
+[2024-10-24 15:53:18] | Completed Function: InsertValue - Success : [//input[@id="password"]] 
+[2024-10-24 15:53:18] | Started Function: clickElement 
+[2024-10-24 15:53:18] | Completed Function: clickElement - Success : [//button[@id="submit"]] 
+[2024-10-24 15:53:18] | Started Function: waitElement 
+[2024-10-24 15:53:19] | Completed Function: waitElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:19] | Started Function: clickElement 
+[2024-10-24 15:53:19] | Completed Function: clickElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:19] | Started Function: InsertValue 
+[2024-10-24 15:53:19] | Completed Function: InsertValue - Success : [//input[@id="firstName"]] 
+[2024-10-24 15:53:19] | Started Function: InsertValue 
+[2024-10-24 15:53:20] | Completed Function: InsertValue - Success : [//input[@id="lastName"]] 
+[2024-10-24 15:53:20] | Started Function: InsertValue 
+[2024-10-24 15:53:20] | Completed Function: InsertValue - Success : [//input[@id="birthdate"]] 
+[2024-10-24 15:53:20] | Started Function: InsertValue 
+[2024-10-24 15:53:20] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:20] | Started Function: InsertValue 
+[2024-10-24 15:53:20] | Completed Function: InsertValue - Success : [//input[@id="phone"]] 
+[2024-10-24 15:53:20] | Started Function: InsertValue 
+[2024-10-24 15:53:20] | Completed Function: InsertValue - Success : [//input[@id="street1"]] 
+[2024-10-24 15:53:20] | Started Function: InsertValue 
+[2024-10-24 15:53:21] | Completed Function: InsertValue - Success : [//input[@id="street2"]] 
+[2024-10-24 15:53:21] | Started Function: InsertValue 
+[2024-10-24 15:53:21] | Completed Function: InsertValue - Success : [//input[@id='city']] 
+[2024-10-24 15:53:21] | Started Function: InsertValue 
+[2024-10-24 15:53:21] | Completed Function: InsertValue - Success : [//input[@id="stateProvince"]] 
+[2024-10-24 15:53:21] | Started Function: InsertValue 
+[2024-10-24 15:53:21] | Completed Function: InsertValue - Success : [//input[@id="postalCode"]] 
+[2024-10-24 15:53:21] | Started Function: InsertValue 
+[2024-10-24 15:53:21] | Completed Function: InsertValue - Success : [//input[@id="country"]] 
+[2024-10-24 15:53:21] | Started Function: clickElement 
+[2024-10-24 15:53:22] | Completed Function: clickElement - Success : [//button[@type="submit"]] 
+[2024-10-24 15:53:22] | Started Function: waitElement 
+[2024-10-24 15:53:23] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:23] | Started Function: waitElement 
+[2024-10-24 15:53:23] | Completed Function: waitElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:23] | Started Function: clickElement 
+[2024-10-24 15:53:23] | Completed Function: clickElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:23] | Started Function: InsertValue 
+[2024-10-24 15:53:24] | Completed Function: InsertValue - Success : [//input[@id="firstName"]] 
+[2024-10-24 15:53:24] | Started Function: InsertValue 
+[2024-10-24 15:53:24] | Completed Function: InsertValue - Success : [//input[@id="lastName"]] 
+[2024-10-24 15:53:24] | Started Function: InsertValue 
+[2024-10-24 15:53:24] | Completed Function: InsertValue - Success : [//input[@id="birthdate"]] 
+[2024-10-24 15:53:24] | Started Function: InsertValue 
+[2024-10-24 15:53:24] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:24] | Started Function: InsertValue 
+[2024-10-24 15:53:24] | Completed Function: InsertValue - Success : [//input[@id="phone"]] 
+[2024-10-24 15:53:24] | Started Function: InsertValue 
+[2024-10-24 15:53:25] | Completed Function: InsertValue - Success : [//input[@id="street1"]] 
+[2024-10-24 15:53:25] | Started Function: InsertValue 
+[2024-10-24 15:53:25] | Completed Function: InsertValue - Success : [//input[@id="street2"]] 
+[2024-10-24 15:53:25] | Started Function: InsertValue 
+[2024-10-24 15:53:25] | Completed Function: InsertValue - Success : [//input[@id='city']] 
+[2024-10-24 15:53:25] | Started Function: InsertValue 
+[2024-10-24 15:53:25] | Completed Function: InsertValue - Success : [//input[@id="stateProvince"]] 
+[2024-10-24 15:53:25] | Started Function: InsertValue 
+[2024-10-24 15:53:25] | Completed Function: InsertValue - Success : [//input[@id="postalCode"]] 
+[2024-10-24 15:53:25] | Started Function: InsertValue 
+[2024-10-24 15:53:26] | Completed Function: InsertValue - Success : [//input[@id="country"]] 
+[2024-10-24 15:53:26] | Started Function: clickElement 
+[2024-10-24 15:53:26] | Completed Function: clickElement - Success : [//button[@type="submit"]] 
+[2024-10-24 15:53:26] | Started Function: waitElement 
+[2024-10-24 15:53:27] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:27] | Started Function: waitElement 
+[2024-10-24 15:53:27] | Completed Function: waitElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:27] | Started Function: clickElement 
+[2024-10-24 15:53:28] | Completed Function: clickElement - Success : [//button[@id="add-contact"]] 
+[2024-10-24 15:53:28] | Started Function: InsertValue 
+[2024-10-24 15:53:28] | Completed Function: InsertValue - Success : [//input[@id="firstName"]] 
+[2024-10-24 15:53:28] | Started Function: InsertValue 
+[2024-10-24 15:53:28] | Completed Function: InsertValue - Success : [//input[@id="lastName"]] 
+[2024-10-24 15:53:28] | Started Function: InsertValue 
+[2024-10-24 15:53:28] | Completed Function: InsertValue - Success : [//input[@id="birthdate"]] 
+[2024-10-24 15:53:28] | Started Function: InsertValue 
+[2024-10-24 15:53:28] | Completed Function: InsertValue - Success : [//input[@id="email"]] 
+[2024-10-24 15:53:28] | Started Function: InsertValue 
+[2024-10-24 15:53:29] | Completed Function: InsertValue - Success : [//input[@id="phone"]] 
+[2024-10-24 15:53:29] | Started Function: InsertValue 
+[2024-10-24 15:53:29] | Completed Function: InsertValue - Success : [//input[@id="street1"]] 
+[2024-10-24 15:53:29] | Started Function: InsertValue 
+[2024-10-24 15:53:29] | Completed Function: InsertValue - Success : [//input[@id="street2"]] 
+[2024-10-24 15:53:29] | Started Function: InsertValue 
+[2024-10-24 15:53:29] | Completed Function: InsertValue - Success : [//input[@id='city']] 
+[2024-10-24 15:53:29] | Started Function: InsertValue 
+[2024-10-24 15:53:29] | Completed Function: InsertValue - Success : [//input[@id="stateProvince"]] 
+[2024-10-24 15:53:29] | Started Function: InsertValue 
+[2024-10-24 15:53:30] | Completed Function: InsertValue - Success : [//input[@id="postalCode"]] 
+[2024-10-24 15:53:30] | Started Function: InsertValue 
+[2024-10-24 15:53:30] | Completed Function: InsertValue - Success : [//input[@id="country"]] 
+[2024-10-24 15:53:30] | Started Function: clickElement 
+[2024-10-24 15:53:30] | Completed Function: clickElement - Success : [//button[@type="submit"]] 
+[2024-10-24 15:53:30] | Started Function: waitElement 
+[2024-10-24 15:53:31] | Completed Function: waitElement - Success : [//tr[@class="contactTableBodyRow"]//td[2]] 
+[2024-10-24 15:53:32] | Function Done : Add_Contact_TC003 
